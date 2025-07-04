@@ -2,7 +2,8 @@
 
 A modern, responsive website for a crane rental company built with React, Vite, and Tailwind CSS. Features beautiful animations, interactive components, and a professional design.
 
-![CraneHirePro Screenshot](https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600&q=80)
+![image](https://github.com/user-attachments/assets/050b35b7-49f3-46d3-a628-f3b72e931376)
+
 
 ## 🚀 Features
 
